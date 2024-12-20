@@ -3,4 +3,4 @@
 #kfc
 szia=1
 #asked
-#rizz
+cameran=69
